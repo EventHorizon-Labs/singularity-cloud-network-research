@@ -16,14 +16,6 @@ keywords:
   - settlement systems
   - trusted execution environments
   - DePIN
-arxiv_candidates:
-  primary:
-    - "cs.GT"
-    - "econ.TH"
-  secondary:
-    - "cs.DC"
-    - "cs.CY"
-    - "q-fin.EC"
 license: "CC-BY-4.0"
 repository: "https://github.com/EventHorizon-Labs/singularity-cloud-network-research"
 pdf: "releases/tokenized-compute-markets-whitepaper.pdf"

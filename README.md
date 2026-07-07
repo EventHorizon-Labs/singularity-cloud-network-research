@@ -65,23 +65,12 @@ papers/
     source/
       paper.tex
 docs/
-  arxiv-notes.md
   series-roadmap.md
 ```
 
-## arXiv Category Notes
-
-For **Tokenized Compute Markets**, the strongest alternatives to `cs.DC` are:
-
-- `cs.GT` for computer-science mechanism design, incentives, and algorithmic market structure.
-- `econ.TH` for theoretical economics / market-design framing.
-- `q-fin.EC` if the paper is reframed toward token-market economics and settlement.
-
-See [docs/arxiv-notes.md](docs/arxiv-notes.md).
-
 ## Citation
 
-Use the repository-level [CITATION.cff](CITATION.cff) or the paper-specific metadata file. Until a DOI or arXiv identifier is assigned, cite the GitHub release or paper directory.
+Use the repository-level [CITATION.cff](CITATION.cff) or the paper-specific metadata file. Until a DOI is assigned, cite the GitHub release or paper directory.
 
 ## License
 
@@ -95,4 +84,3 @@ Unless a paper directory states otherwise, text and papers in this repository ar
 Research toward decentralized, verifiable, confidential, and agentic cloud infrastructure.
 
 </div>
-
