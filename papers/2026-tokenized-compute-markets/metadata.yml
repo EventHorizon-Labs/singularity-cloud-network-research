@@ -1,0 +1,39 @@
+title: "Tokenized Compute Markets: A Self-Growing Mechanism for Community-Owned, Verifiable, Confidential, and Agentic AI Compute"
+short_title: "Tokenized Compute Markets"
+authors:
+  - name: "Avi Gaba"
+    affiliation: "EventHorizon Labs / Singularity Layer"
+    email: "work@ehlabs.xyz"
+status: "Working paper"
+date: "2026-07-07"
+version: "v0.1"
+keywords:
+  - tokenized compute markets
+  - mechanism design
+  - decentralized physical infrastructure networks
+  - confidential AI inference
+  - agentic compute
+  - settlement systems
+  - trusted execution environments
+  - DePIN
+arxiv_candidates:
+  primary:
+    - "cs.GT"
+    - "econ.TH"
+  secondary:
+    - "cs.DC"
+    - "cs.CY"
+    - "q-fin.EC"
+license: "CC-BY-4.0"
+repository: "https://github.com/EventHorizon-Labs/research-papers"
+pdf: "releases/tokenized-compute-markets-whitepaper.pdf"
+source: "source/paper.tex"
+abstract: >
+  AI inference is becoming a foundational economic resource, yet its supply is concentrated.
+  This paper presents Tokenized Compute Markets, a mechanism coupling capital formation,
+  physical infrastructure deployment, and AI inference into a self-growing economic loop.
+  Trading activity finances new machines through a Hardware Fund, while inference is priced
+  in a stable unit and settled in a cluster token. The paper gives the formal mechanics,
+  incentive analysis, security model, settlement model, capacity illustrations, and explicit
+  failure modes.
+

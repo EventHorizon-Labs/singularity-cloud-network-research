@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the relevant paper."
+title: "EventHorizon Labs Research Papers"
+authors:
+  - family-names: "Gaba"
+    given-names: "Avi"
+date-released: "2026-07-07"
+repository-code: "https://github.com/EventHorizon-Labs/research-papers"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "Tokenized Compute Markets: A Self-Growing Mechanism for Community-Owned, Verifiable, Confidential, and Agentic AI Compute"
+  authors:
+    - family-names: "Gaba"
+      given-names: "Avi"
+  year: 2026
+  institution:
+    name: "EventHorizon Labs / Singularity Layer"
+  url: "https://github.com/EventHorizon-Labs/research-papers/tree/main/papers/2026-tokenized-compute-markets"
+
