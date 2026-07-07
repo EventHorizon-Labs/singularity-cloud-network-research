@@ -1,5 +1,9 @@
 <div align="center">
 
+<p>
+  <img src="assets/brand/singularity-cloud-network-logo.png" alt="Singularity Cloud Network logo" width="150" />
+</p>
+
 # Singularity Cloud Network Research
 
 **Working papers and technical preprints for the Singularity Cloud Network.**
@@ -9,6 +13,13 @@ Decentralized AI compute, verifiable inference, confidential hardware, tokenized
 [![Status](https://img.shields.io/badge/status-working%20papers-black)](#papers)
 [![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)](LICENSE)
 [![Lab](https://img.shields.io/badge/lab-EventHorizon%20Labs-111111)](https://github.com/EventHorizon-Labs/eh-labs-research)
+[![Research](https://img.shields.io/badge/research-ehlabs.xyz%2Fresearch-orange)](https://www.ehlabs.xyz/research)
+
+<p>
+  <a href="https://www.ehlabs.xyz/research"><img src="assets/brand/ehlabs-logo.png" alt="EventHorizon Labs logo" width="72" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/brand/singularity-logo.png" alt="Singularity logo" width="72" />
+</p>
 
 </div>
 
@@ -17,6 +28,8 @@ Decentralized AI compute, verifiable inference, confidential hardware, tokenized
 ## Scope
 
 This repository is the focused publication surface for the **Singularity Cloud Network** paper series. It is separate from the broader [EventHorizon Labs research hub](https://github.com/EventHorizon-Labs/eh-labs-research), which tracks pillars, experiments, and research-roadmap work across the lab.
+
+Research home: **[ehlabs.xyz/research](https://www.ehlabs.xyz/research)**
 
 The series studies one question from multiple angles:
 
