@@ -25,7 +25,7 @@ arxiv_candidates:
     - "cs.CY"
     - "q-fin.EC"
 license: "CC-BY-4.0"
-repository: "https://github.com/EventHorizon-Labs/research-papers"
+repository: "https://github.com/EventHorizon-Labs/singularity-cloud-network-research"
 pdf: "releases/tokenized-compute-markets-whitepaper.pdf"
 source: "source/paper.tex"
 abstract: >
@@ -36,4 +36,3 @@ abstract: >
   in a stable unit and settled in a cluster token. The paper gives the formal mechanics,
   incentive analysis, security model, settlement model, capacity illustrations, and explicit
   failure modes.
-

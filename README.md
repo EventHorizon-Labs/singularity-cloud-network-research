@@ -1,16 +1,59 @@
-# EventHorizon Labs Research
+<div align="center">
 
-Public working papers, technical notes, and preprints from EventHorizon Labs.
+# Singularity Cloud Network Research
 
-This repository is intended to be a durable publication surface for research that may also be submitted to arXiv, conferences, workshops, or journals. Each paper lives in its own directory with a rendered PDF, source files when available, citation metadata, and status notes.
+**Working papers and technical preprints for the Singularity Cloud Network.**
+
+Decentralized AI compute, verifiable inference, confidential hardware, tokenized compute markets, and agent-native cloud infrastructure.
+
+[![Status](https://img.shields.io/badge/status-working%20papers-black)](#papers)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)](LICENSE)
+[![Lab](https://img.shields.io/badge/lab-EventHorizon%20Labs-111111)](https://github.com/EventHorizon-Labs/eh-labs-research)
+
+</div>
+
+---
+
+## Scope
+
+This repository is the focused publication surface for the **Singularity Cloud Network** paper series. It is separate from the broader [EventHorizon Labs research hub](https://github.com/EventHorizon-Labs/eh-labs-research), which tracks pillars, experiments, and research-roadmap work across the lab.
+
+The series studies one question from multiple angles:
+
+> How can AI compute become an open, community-owned, verifiable, confidential, and agent-native cloud network?
 
 ## Papers
 
-| Year | Paper | Status | PDF | Source |
-| --- | --- | --- | --- | --- |
-| 2026 | Tokenized Compute Markets: A Self-Growing Mechanism for Community-Owned, Verifiable, Confidential, and Agentic AI Compute | Working paper | [PDF](papers/2026-tokenized-compute-markets/releases/tokenized-compute-markets-whitepaper.pdf) | [TeX](papers/2026-tokenized-compute-markets/source/paper.tex) |
+| # | Paper | Theme | Status | PDF | Source |
+| --- | --- | --- | --- | --- | --- |
+| SCN-001 | **Tokenized Compute Markets** | Market mechanism for self-growing AI compute capacity | Working paper v0.1 | [PDF](papers/2026-tokenized-compute-markets/releases/tokenized-compute-markets-whitepaper.pdf) | [TeX](papers/2026-tokenized-compute-markets/source/paper.tex) |
+| SCN-002 | **Singularity Grid** | Verifiable, confidential, OpenAI-compatible inference across independent nodes | Forthcoming | - | - |
+| SCN-003 | **Singularity Hive Mind** | Sharded large-model serving across many local/cloud nodes | Forthcoming | - | - |
 
-## Repository Structure
+## Current Release
+
+### Tokenized Compute Markets
+
+**A Self-Growing Mechanism for Community-Owned, Verifiable, Confidential, and Agentic AI Compute**
+
+The first paper introduces Tokenized Compute Markets, a mechanism that couples capital formation, physical infrastructure deployment, and AI inference into a self-growing loop. Trading activity funds real machines through a Hardware Fund, while inference remains priced in a stable unit and settled through cluster tokens.
+
+Key topics:
+
+- mechanism design for community-owned compute
+- tokenized settlement and batched operator payouts
+- hardware-funded capacity growth
+- confidential AI inference and TEE trust tiers
+- agentic market creation and autonomous compute participation
+- failure modes: velocity, wash markets, demand/supply reflexivity, and liquidity fragmentation
+
+Read:
+
+- [Paper README](papers/2026-tokenized-compute-markets/)
+- [Rendered PDF](papers/2026-tokenized-compute-markets/releases/tokenized-compute-markets-whitepaper.pdf)
+- [GitHub release](https://github.com/EventHorizon-Labs/singularity-cloud-network-research/releases/tag/tokenized-compute-markets-v0.1)
+
+## Repository Layout
 
 ```text
 papers/
@@ -23,13 +66,33 @@ papers/
       paper.tex
 docs/
   arxiv-notes.md
+  series-roadmap.md
 ```
+
+## arXiv Category Notes
+
+For **Tokenized Compute Markets**, the strongest alternatives to `cs.DC` are:
+
+- `cs.GT` for computer-science mechanism design, incentives, and algorithmic market structure.
+- `econ.TH` for theoretical economics / market-design framing.
+- `q-fin.EC` if the paper is reframed toward token-market economics and settlement.
+
+See [docs/arxiv-notes.md](docs/arxiv-notes.md).
 
 ## Citation
 
-Use the `CITATION.cff` file in this repository or the paper-specific metadata file. Until a DOI or arXiv identifier is assigned, cite the repository URL and the release date shown in the paper directory.
+Use the repository-level [CITATION.cff](CITATION.cff) or the paper-specific metadata file. Until a DOI or arXiv identifier is assigned, cite the GitHub release or paper directory.
 
 ## License
 
 Unless a paper directory states otherwise, text and papers in this repository are released under the Creative Commons Attribution 4.0 International License. Code snippets, scripts, and machine-readable metadata are released under the MIT License.
+
+---
+
+<div align="center">
+
+**EventHorizon Labs**  
+Research toward decentralized, verifiable, confidential, and agentic cloud infrastructure.
+
+</div>
 

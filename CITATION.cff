@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite the relevant paper."
-title: "EventHorizon Labs Research Papers"
+title: "Singularity Cloud Network Research"
 authors:
   - family-names: "Gaba"
     given-names: "Avi"
 date-released: "2026-07-07"
-repository-code: "https://github.com/EventHorizon-Labs/research-papers"
+repository-code: "https://github.com/EventHorizon-Labs/singularity-cloud-network-research"
 license: "CC-BY-4.0"
 preferred-citation:
   type: article
@@ -16,5 +16,4 @@ preferred-citation:
   year: 2026
   institution:
     name: "EventHorizon Labs / Singularity Layer"
-  url: "https://github.com/EventHorizon-Labs/research-papers/tree/main/papers/2026-tokenized-compute-markets"
-
+  url: "https://github.com/EventHorizon-Labs/singularity-cloud-network-research/tree/main/papers/2026-tokenized-compute-markets"

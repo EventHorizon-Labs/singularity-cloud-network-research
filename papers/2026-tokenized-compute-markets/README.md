@@ -30,7 +30,6 @@ The PDF is the canonical rendered version for this initial repository release. T
   institution = {EventHorizon Labs / Singularity Layer},
   year        = {2026},
   type        = {Working paper},
-  url         = {https://github.com/EventHorizon-Labs/research-papers/tree/main/papers/2026-tokenized-compute-markets}
+  url         = {https://github.com/EventHorizon-Labs/singularity-cloud-network-research/tree/main/papers/2026-tokenized-compute-markets}
 }
 ```
-
